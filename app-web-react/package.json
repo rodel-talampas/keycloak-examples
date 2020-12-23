@@ -9,7 +9,7 @@
     }
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "enzyme": "^2.9.1",
     "flux-standard-action": "^1.2.0",
     "material-ui": "^1.0.0-beta.30",
